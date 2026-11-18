@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/1c/2d/4a/1c2d4a2b3c4d5e6f7g8h9i0j1k2l3m4n.gif" alt="Cyberpunk Header" width="100%" style="max-height: 250px; object-fit: cover;" />
+<img src="https://ru.pinterest.com/pin/749004981822529818/" alt="Nature Header" width="100%" style="max-height: 250px; object-fit: cover;" />
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=BiFroZZy&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub statistics" height="150" />
